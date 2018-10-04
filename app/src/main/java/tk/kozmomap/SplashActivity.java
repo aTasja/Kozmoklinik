@@ -14,7 +14,7 @@ import android.os.Bundle;
 public class SplashActivity extends AppCompatActivity {
 
     // Splash Screen Timer
-    private static int SPLASH_TIME_OUT = 4000;
+    private static int SPLASH_TIME_OUT = 3000;
 
     MediaPlayer mp;
 
