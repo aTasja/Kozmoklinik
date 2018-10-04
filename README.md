@@ -7,6 +7,7 @@ Splash screen
 </p>
 
 
-[![Alt text for your video](https://github.com/aTasja/Kozmoklinik/blob/master/Screens/Splash_screen.jpgg)](https://youtu.be/2QRR5kT1M9M)
+https://youtu.be/2QRR5kT1M9M
+
 
 
