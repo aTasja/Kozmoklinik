@@ -31,6 +31,6 @@ public class MainActivity extends AppCompatActivity {
         webview.getSettings().setJavaScriptEnabled(true);
         webview.getSettings().setDomStorageEnabled(true);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
-        webview.loadUrl("http://kozmomap.tk/");
+        webview.loadUrl("https://kozmomap.tk/");
     }
 }
